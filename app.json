@@ -1,11 +1,13 @@
 {
   "expo": {
-    "name": "aoa-app",
-    "description": "This project is really great.",
-    "slug": "aoa-app",
+    "name": "All of Aquinas app",
+    "description": "An app for the All of Aquinas Lecture series",
+    "slug": "all-of-aquinas-app",
     "privacy": "public",
     "sdkVersion": "30.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/agomez314/aoa-app"
   }
 }
